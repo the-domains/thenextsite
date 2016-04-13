@@ -1,0 +1,28 @@
+name: thenextsite
+favicon: null
+layout_spectrum: 0.055392451817169785
+typography_spectrum: 0.6727694179862738
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8782097359653562
+  lightness: 0.20944026508368552
+  saturation: 0.20826521422713995
+  rhythmicContrast: 0.8403396329376847
+purpose: []
